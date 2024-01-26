@@ -136,7 +136,7 @@ WHY ? the jenkins is running right ?
 Well we forgot one thing. We need to expose the port 8080. just like port 22 is exposed.
 
 once expose try to hit : 
-http://20.189.75.177:8080
+http://<*IP ADDRESS*>:8080
 
 you should get :
 <html><head><meta http-equiv='refresh' content='1;url=/login?from=%2F'/><script id='redirect' data-redirect-url='/login?from=%2F' src='/static/03930419/scripts/redirect.js'></script></head><body style='background-color:white; color:white;'>
